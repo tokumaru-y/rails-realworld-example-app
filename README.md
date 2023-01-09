@@ -9,7 +9,7 @@ Check out the [rails-5.1 branch](https://github.com/gothinkster/rails-realworld-
 # Getting started
 
 To get the Rails server running locally:
-
+ 
 - Clone this repo
 - `bundle install` to install all req'd dependencies
 - `rake db:migrate` to make all database migrations
